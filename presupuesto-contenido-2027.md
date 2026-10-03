@@ -43,26 +43,28 @@ Ahorro: $1,763/año vs ChatGPT Business; $6,171/año vs pagar ambos.
 | Banco de fotos/vectores/mockups | Sí | No | No (Adobe Stock aparte) |
 | Imagen / video | Sí / Sí | Sí / clips cortos | Sí / con créditos |
 
-## Kits de video
-| Concepto | Bajo | Medio (elegido) | Alto |
+## Cámara de video: tres opciones (elegida: Osmo)
+| Concepto | 1 · Osmo (elegida) | 2 · Sony ZV-E10 | 3 · Sony ZV-E10 II |
 |---|---|---|---|
-| Cámara | DJI Osmo Pocket 4 Creator Combo · $12,099 | Sony ZV-E10 II + 16-50 · $27,699 | Sony FX30 + Sigma 18-50 F2.8 · $43,899 |
-| Estabilizador | Integrado · $0 | DJI RS 4 Mini · $7,199 | DJI RS 4 Mini Combo · $8,899 |
-| Tripié | SmallRig compacto CT-10 · $1,495 | SmallRig AD-01S cabeza fluida · $4,219 | Manfrotto Befree Live · $7,573 |
-| Micrófono | DJI Mic 3 incluido · $0 | DJI Mic 3 2TX · $7,599 | DJI Mic 3 2TX · $7,599 |
-| Memorias/energía (estimado) | ~$1,000 | ~$3,000 | ~$8,000 |
-| **Subtotal** | **$14,594** | **$49,716** | **$75,970** |
+| Cámara | DJI Osmo Pocket 4 Creator Combo · $12,099 | Sony ZV-E10 + 16-50 · $13,999 | Sony ZV-E10 II + 16-50 · $27,699 |
+| Estabilizador | Integrado · $0 | DJI RS 4 Mini · $7,199 | DJI RS 4 Mini · $7,199 |
+| Tripié | SmallRig compacto CT-10 · $1,495 | SmallRig AD-01S cabeza fluida · $4,219 | SmallRig AD-01S cabeza fluida · $4,219 |
+| Micrófono | DJI Mic 3 incluido · $0 | DJI Mic 3 (1TX+1RX) · $4,899 | DJI Mic 3 (1TX+1RX) · $4,899 |
+| Memorias/energía (estimado) | microSD 512 GB ~$1,000 | SD + 2 baterías ~$3,000 | SD + batería ~$3,000 |
+| **Subtotal** | **$14,594** | **$33,316** | **$47,016** |
+
+La Osmo trae estabilizador de 3 ejes y DJI Mic 3 en la caja; en las Sony se compran aparte (kits 2.3x y 3.2x más caros).
 
 ## Escenarios 2027
-| | Bajo | Medio (elegido) | Alto |
+| | 1 · Osmo (elegida) | 2 · ZV-E10 | 3 · ZV-E10 II |
 |---|---|---|---|
 | Software | $47,036 | $47,036 | $47,036 |
-| Kit de video | $14,594 | $49,716 | $75,970 |
-| Contingencia 10% | $6,163 | $9,675 | $12,301 |
-| **Total** | **$67,793** | **$106,427** | **$135,307** |
-| Al mes | ≈ $5,649 | ≈ $8,869 | ≈ $11,276 |
+| Kit de video | $14,594 | $33,316 | $47,016 |
+| Contingencia 10% | $6,163 | $8,035 | $9,405 |
+| **Total** | **$67,793** | **$88,387** | **$103,457** |
+| Al mes | ≈ $5,649 | ≈ $7,366 | ≈ $8,621 |
 
-El equipo se compra una vez; en 2028 solo se renuevan licencias (~$47K + ajuste cambiario).
+Ahorro con la Osmo: $20,594 vs opción 2 y $35,664 vs opción 3. En 2028 solo se renuevan licencias (~$47K + ajuste cambiario).
 
 ## Fuentes
 - Poliforum 2025 (177 eventos, -8%, visitantes, derrama): https://periodicocorreo.com.mx/leon/2025/dec/17/poliforum-leon-resiente-cancelaciones-aunque-se-mantiene-en-el-top-nacional-146231.html · https://bajio.quadratin.com.mx/en-2025-disminuyo-el-numero-de-eventos-en-poliforum-leon/
@@ -74,6 +76,6 @@ El equipo se compra una vez; en 2028 solo se renuevan licencias (~$47K + ajuste 
 - Adobe MX: https://helpx.adobe.com/mx/creative-cloud/policy-pricing/changes-to-individual-plan.html
 - X: https://hypefury.com/twitter/x-account-types-and-prices/ · https://postinstantly.com/glossary/x-verified-orgs
 - Osmo Pocket 4: https://www.xataka.com.mx/fotografia-y-video/dji-osmo-pocket-4-lanzamiento-precio-mexico-caracteristicas-especificaciones-ficha-tecnica
-- ZV-E10 II: https://vyorsa.com.mx/camara-sony-zv-e10-ii.html · FX30: https://www.sears.com.mx/producto/3443141/camara-de-cine-sony-fx30
-- Sigma 18-50: https://www.sigmaphoto.mx/products/contemporary-18-50mm-f2-8-dc-dn · RS 4 Mini: https://www.djistoremexico.com/producto/dji-rs-4-mini/
-- DJI Mic 3: https://www.djistoremexico.com/producto/dji-mic-3-2-tx-1-rx-charging-case/ · Tripiés: https://www.fotomecanica.mx/fotografia/fotografia-accesorios/tripies-monopies.html
+- ZV-E10: https://videostaff.com.mx/products/camara-sony-zv-e10-con-lente-16-50mm · ZV-E10 II: https://vyorsa.com.mx/camara-sony-zv-e10-ii.html
+- RS 4 Mini: https://www.djistoremexico.com/producto/dji-rs-4-mini/
+- DJI Mic 3: https://www.djistoremexico.com/producto/dji-mic-3-1tx-1-rx/ · Tripiés: https://www.fotomecanica.mx/fotografia/fotografia-accesorios/tripies-monopies.html
