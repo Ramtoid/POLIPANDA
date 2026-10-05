@@ -87,6 +87,25 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 | Cámara | $13,398 | $20,598 | $32,198 |
 | **Total** | **$70,902** | **$78,102** | **$89,702** |
 
+## Links de compra
+**Equipo**
+- Osmo Pocket 4P Standard Combo ($11,999): https://www.djistoremexico.com/producto/osmo-pocket-4p-standard-combo/
+- Mango con batería Osmo Pocket 4 (~$1,199–1,399): https://www.amazon.com.mx/Osmo-Pocket-3-Battery-Handle/dp/B0FKT73T6Q
+- Sony ZV-E10 + 16-50 (~$13,399): https://www.mercadolibre.com.mx/sony-zv-e10l-camara-digital-con-lente-intercambiable-color-negro/p/MLM18448013
+- Sony ZV-E10 II + 16-50 ($24,999–27,679 según vendedor): https://listado.mercadolibre.com.mx/sony-zv-e10-ii · https://articulo.mercadolibre.com.mx/MLM-3418537266-camara-sony-zv-e10-ii-lente-e-pz-16-50mm-f35-56-oss-i-i-_JM
+- DJI RS 4 Mini ($7,199): https://www.djistoremexico.com/producto/dji-rs-4-mini/ · Combo en Mercado Libre ($8,899): https://www.mercadolibre.com.mx/pack-estabilizador-dji-rs-4-mini-combo-seguimiento-carga-2kg-gris/p/MLM47798993
+
+**Software (comprar desde la web, no desde la app)**
+- CapCut Pro: https://www.capcut.com/
+- Canva Business: https://www.canva.com/pricing/
+- ChatGPT Business: https://openai.com/business/pricing/
+- Magnific Premium+: https://www.magnific.com/pricing
+- ManyChat Pro: https://manychat.com/pricing
+- Metricool Starter: https://metricool.com/pricing/
+- Adobe Illustrator: https://www.adobe.com/mx/products/illustrator.html
+- X Premium: https://x.com/i/premium_sign_up
+- Opción gratis para mensajes: Meta Business Suite https://business.facebook.com/
+
 ## Fuentes
 - CapCut: https://www.eesel.ai/blog/capcut-pricing · Canva: https://www.miracamp.com/learn/canva/pricing-plans
 - ChatGPT Business precio: https://www.sayfeai.com/blog/chatgpt-business-pricing-2026 · Privacidad: https://help.openai.com/en/articles/8798634-managing-data-sharing-and-privacy-in-chatgpt-business
