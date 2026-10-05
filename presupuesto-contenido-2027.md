@@ -7,7 +7,7 @@
 ## Software anual
 | Herramienta | Por qué | Plan | Costo anual |
 |---|---|---|---|
-| CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia ($179.99 USD) | $3,967 |
+| CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia ($179.99 USD) | $2,399 |
 | Canva Business | Kit de marca y plantillas fijas, 2 personas a la vez | 2 usuarios ($250 USD c/u) | $11,020 |
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($20 USD/mes c/u, anual) | $10,579 |
 | Magnific Premium+ | Banco de recursos + imagen y video con IA | 1 licencia ($405 USD) | $8,926 |
@@ -15,12 +15,12 @@
 | Metricool Starter | Publica directo en FB, IG, TikTok, X, YouTube y LinkedIn; mide y reporta | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
 | Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$57,504** |
+| **Total** | | | **$55,936** |
 
 ### Pago mensual vs anual
 | Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
 |---|---|---|---|---|
-| CapCut Pro | $441 | $5,287 | $3,967 | $1,320 |
+| CapCut Pro | ~$441 | ~$5,287 | $2,399 (1er año; renueva $2,999) | ~$2,888 |
 | Canva Business (2) | $1,102 | $13,224 | $11,020 | $2,204 |
 | ChatGPT Business (2) | $1,102 | $13,224 | $10,579 | $2,645 |
 | Magnific Premium+ | $992 | $11,902 | $8,926 | $2,976 |
@@ -28,7 +28,7 @@
 | Metricool Starter + X | $771 | $9,257 | $7,934 | $1,323 |
 | Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
 | X Premium | $145 | $1,740 | $1,520 | $220 |
-| **Total** | **$5,973** | **$71,672** | **$57,504** | **$14,168** |
+| **Total** | **$5,973** | **$71,672** | **$55,936** | **$15,736** |
 
 
 ## Qué automatizamos con IA
@@ -61,15 +61,13 @@ Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios e
 | InstantDM | Comenta y te llega en Instagram | ~$2,642 |
 | ManyChat Pro (en presupuesto) | Mensajes y dinámicas en IG y Facebook con estadísticas | 500 contactos $3,967 · 1,000 $6,612 · 2,500 $11,902 |
 
-## Cámara de video (precios Mercado Libre, de menor a mayor; cámara + estabilizador, micrófonos ya los tenemos)
+## Cámara de video (rangos de Mercado Libre y tiendas oficiales; el precio cambia según vendedor)
 | | Plan A · DJI Osmo Pocket 4P | Plan B · Sony ZV-E10 | Plan C · Sony ZV-E10 II |
 |---|---|---|---|
-| Cámara | Standard Combo · $11,999 | + lente 16-50 · $13,399 | + lente 16-50 · $24,999 |
-| Estabilizador | Integrado | DJI RS 4 Mini · $7,199 | DJI RS 4 Mini · $7,199 |
-| Batería | Mango con batería DJI · $1,399 | — | — |
-| **Subtotal** | **$13,398** | **$20,598** | **$32,198** |
-
-DJI no vende un combo de la 4P con batería: el mango con batería oficial se suma aparte. El RS 4 Mini carga 2 kg; las dos Sony con lente entran sin problema.
+| Cámara | Standard Combo · $11,999–12,999 | + lente 16-50 · $13,500–18,000 | + lente 16-50 · $25,000–28,000 |
+| Estabilizador | Integrado | DJI RS 4 Mini · $7,200–7,500 | DJI RS 4 Mini · $7,200–7,500 |
+| Batería | Mango con batería DJI · $1,199–1,399 | — | — |
+| **Rango** | **$13,200–14,400** | **$20,700–25,500** | **$32,200–35,500** |
 
 ### Compatibilidad cámara + estabilizador
 | Combinación | Compatible | Qué funciona | Ojo con |
@@ -83,15 +81,15 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $57,504 | $57,504 | $57,504 |
-| Cámara | $13,398 | $20,598 | $32,198 |
-| **Total** | **$70,902** | **$78,102** | **$89,702** |
+| Software | $55,936 | $55,936 | $55,936 |
+| Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
+| **Total** | **$69,100–70,400** | **$76,600–81,400** | **$88,100–91,400** |
 
 ## Links de compra
 **Equipo**
 - Osmo Pocket 4P Standard Combo ($11,999): https://www.djistoremexico.com/producto/osmo-pocket-4p-standard-combo/
 - Mango con batería Osmo Pocket 4 (~$1,199–1,399): https://www.amazon.com.mx/Osmo-Pocket-3-Battery-Handle/dp/B0FKT73T6Q
-- Sony ZV-E10 + 16-50 (~$13,399): https://www.mercadolibre.com.mx/sony-zv-e10l-camara-digital-con-lente-intercambiable-color-negro/p/MLM18448013
+- Sony ZV-E10 + 16-50 ($13,500–18,000): https://www.mercadolibre.com.mx/sony-zv-e10l-camara-digital-con-lente-intercambiable-color-negro/p/MLM18448013
 - Sony ZV-E10 II + 16-50 ($24,999–27,679 según vendedor): https://listado.mercadolibre.com.mx/sony-zv-e10-ii · https://articulo.mercadolibre.com.mx/MLM-3418537266-camara-sony-zv-e10-ii-lente-e-pz-16-50mm-f35-56-oss-i-i-_JM
 - DJI RS 4 Mini ($7,199): https://www.djistoremexico.com/producto/dji-rs-4-mini/ · Combo en Mercado Libre ($8,899): https://www.mercadolibre.com.mx/pack-estabilizador-dji-rs-4-mini-combo-seguimiento-carga-2kg-gris/p/MLM47798993
 
