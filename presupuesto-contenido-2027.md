@@ -10,12 +10,12 @@
 | CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia (precio CapCut México) | $2,399 |
 | Canva Pro | Cuenta Pro con kit de marca, plantillas prémium e IA para cada persona | 2 cuentas ($1,210 MXN c/u, canva.com México) | $2,420 |
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($340 MXN/mes c/u, anual) | $8,160 |
-| Magnific Premium+ | Banco de recursos + imagen y video con IA | 1 licencia ($405 USD) | $8,926 |
+| Magnific Premium+ | Banco de recursos + imagen y video con IA; no entrena con nuestros datos | 1 licencia ($7,036.56 MXN con IVA) | $7,037 |
 | ManyChat Pro | Mensajes privados automáticos en IG y Facebook; dinámicas "comenta y te llega" | 1,000 contactos ($25 USD/mes, solo mensual) | $6,612 |
 | Metricool Starter | Publica directo en FB, IG, TikTok, X, YouTube y LinkedIn; mide y reporta | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
 | Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$44,917** |
+| **Total** | | | **$43,028** |
 
 ### Pago mensual vs anual
 | Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
@@ -23,12 +23,12 @@
 | CapCut Pro | ~$441 | ~$5,287 | $2,399 (1er año; renueva $2,999) | ~$2,888 |
 | Canva Pro (2) | ~$303 | ~$3,630 | $2,420 | ~$1,210 |
 | ChatGPT Business (2) | $860 | $10,320 | $8,160 | $2,160 |
-| Magnific Premium+ | $992 | $11,902 | $8,926 | $2,976 |
+| Magnific Premium+ | $783 | $9,396 | $7,037 | $2,359 |
 | ManyChat Pro | $551 | $6,612 | Solo mensual | $0 |
 | Metricool Starter + X | $771 | $9,257 | $7,934 | $1,323 |
 | Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
 | X Premium | $145 | $1,740 | $1,520 | $220 |
-| **Total** | **$4,932** | **$59,174** | **$44,917** | **$14,257** |
+| **Total** | **$4,723** | **$56,668** | **$43,028** | **$13,640** |
 
 
 ## Qué automatizamos con IA
@@ -49,7 +49,7 @@ Los dos son privados en su plan de empresa; ninguno lo es por defecto en su plan
 |---|---|---|---|
 | Costo anual | $8,926 | $12,431 ($47 USD/mes) | $10,577 ($39.99 USD/mes) |
 | Videos al año | ~800 + uno básico ilimitado | ~1,400 | ~300 |
-| Costo por video | ~$11 | ~$9 | ~$35 |
+| Costo por video | ~$9 | ~$9 | ~$35 |
 | Imágenes | Ilimitadas con modelos incluidos | Descuentan créditos | ~3,000/año (~$3.50 c/u) |
 | Además | Fotos, vectores, mockups | Solo IA | Música y video stock |
 
@@ -81,9 +81,9 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $44,917 | $44,917 | $44,917 |
+| Software | $43,028 | $43,028 | $43,028 |
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
-| **Total** | **$58,100–59,300** | **$65,600–70,400** | **$77,100–80,400** |
+| **Total** | **$56,200–57,400** | **$63,700–68,500** | **$75,200–78,500** |
 
 ## Links de compra
 **Equipo**
