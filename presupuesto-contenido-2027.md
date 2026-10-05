@@ -12,10 +12,10 @@
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($340 MXN/mes c/u, anual) | $8,160 |
 | Magnific Premium+ | Banco de recursos + imagen y video con IA; no entrena con nuestros datos | 1 licencia ($7,036.56 MXN con IVA) | $7,037 |
 | ManyChat Pro | Mensajes privados automáticos y dinámicas "comenta y te llega" en IG y Facebook | 2,500 contactos, 3 canales ($348 USD/año) | $7,670 |
-| Metricool Starter | Publica directo en FB, IG, TikTok, X, YouTube y LinkedIn; mide y reporta | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
+| Metricool Starter | Publica directo en FB, IG, TikTok, YouTube y LinkedIn; mide y reporta | 1 marca, sin cuenta de X ($240 USD/año) | $5,290 |
 | Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$44,086** |
+| **Total** | | | **$41,442** |
 
 ### Pago mensual vs anual
 | Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
@@ -25,10 +25,10 @@
 | ChatGPT Business (2) | $860 | $10,320 | $8,160 | $2,160 |
 | Magnific Premium+ | $783 | $9,396 | $7,037 | $2,359 |
 | ManyChat Pro | ~$860 | ~$10,315 | $7,670 | ~$2,645 |
-| Metricool Starter + X | $771 | $9,257 | $7,934 | $1,323 |
+| Metricool Starter | $551 | $6,612 | $5,290 | $1,322 |
 | Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
 | X Premium | $145 | $1,740 | $1,520 | $220 |
-| **Total** | **$5,032** | **$60,371** | **$44,086** | **$16,285** |
+| **Total** | **$4,812** | **$57,726** | **$41,442** | **$16,284** |
 
 
 ## Qué automatizamos con IA
@@ -82,9 +82,9 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $44,086 | $44,086 | $44,086 |
+| Software | $41,442 | $41,442 | $41,442 |
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
-| **Total** | **$57,300–58,500** | **$64,800–69,600** | **$76,300–79,600** |
+| **Total** | **$54,600–55,800** | **$62,100–66,900** | **$73,600–76,900** |
 
 ## Links de compra
 **Equipo**
