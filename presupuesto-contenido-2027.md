@@ -17,6 +17,20 @@
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
 | **Total** | | | **$57,504** |
 
+### Pago mensual vs anual
+| Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
+|---|---|---|---|---|
+| CapCut Pro | $441 | $5,287 | $3,967 | $1,320 |
+| Canva Business (2) | $1,102 | $13,224 | $11,020 | $2,204 |
+| ChatGPT Business (2) | $1,102 | $13,224 | $10,579 | $2,645 |
+| Magnific Premium+ | $992 | $11,902 | $8,926 | $2,976 |
+| ManyChat Pro | $551 | $6,612 | Solo mensual | $0 |
+| Metricool Starter + X | $771 | $9,257 | $7,934 | $1,323 |
+| Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
+| X Premium | $145 | $1,740 | $1,520 | $220 |
+| **Total** | **$5,973** | **$71,672** | **$57,504** | **$14,168** |
+
+
 ## Qué automatizamos con IA
 Boletines de prensa desde la ficha del evento · presentaciones e informes para Dirección · guiones de video · síntesis de medios diaria · calendario de campañas · un texto adaptado a todas las redes · respuestas tipo para prensa, público y crisis · reporte mensual de campañas con datos de Metricool.
 
@@ -57,6 +71,15 @@ Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios e
 
 DJI no vende un combo de la 4P con batería: el mango con batería oficial se suma aparte. El RS 4 Mini carga 2 kg; las dos Sony con lente entran sin problema.
 
+### Compatibilidad cámara + estabilizador
+| Combinación | Compatible | Qué funciona | Ojo con |
+|---|---|---|---|
+| Osmo Pocket 4P + mango con batería DJI | Sí, oficial | Estabilizador integrado; mango suma ~130 min a 1080p, hot-swap | Comprar el mango oficial: los de otras marcas chocan con la tapa |
+| Sony ZV-E10 + RS 4 Mini | Sí, en lista de DJI | Grabar, foto y zoom del 16-50 por Bluetooth; usuarios reportan video estable | Sin estabilización interna; balancear con la cámara encendida (el lente se alarga) |
+| Sony ZV-E10 II + RS 4 Mini | Sí | Mismo control por Bluetooth; combo compacto más recomendado en foros de Sony | Abrir la pantalla hacia la izquierda para no chocar con el motor; lentes cortos |
+
+Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
+
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
@@ -77,4 +100,6 @@ DJI no vende un combo de la 4P con batería: el mango con batería oficial se su
 - Osmo Pocket 4P Standard Combo: https://www.djistoremexico.com/producto/osmo-pocket-4p-standard-combo/ · https://www.xataka.com.mx/fotografia-y-video/osmo-pocket-4p-precio-mexico-caracteristicas-especificaciones-ficha-tecnica · Mango con batería: https://www.amazon.com.mx/Osmo-Pocket-3-Battery-Handle/dp/B0FKT73T6Q
 - ZV-E10 (Mercado Libre): https://listado.mercadolibre.com.mx/camara-sony-zv-e10-con-lente-16-50mm · ZV-E10 II (Mercado Libre): https://listado.mercadolibre.com.mx/sony-zv-e10-ii
 - DJI RS 4 Mini (Mercado Libre): https://listado.mercadolibre.com.mx/dji-rs-4-mini · compatibilidad: https://www.dji.com/rs-4-mini
+- Compatibilidad: https://www.dji.com/rs-4-mini/faq · https://dl.djicdn.com/downloads/DJI_RS4_Mini/20250220/UM-mini/RS4_Mini_User_Manual_en.pdf · https://forum.sony-rumors.com/apsc-mirrorless-camera/which-compact-gimbal-works-best-for-the-sony-zv-e10-ii-95624/ · https://note.com/nice_dog9512/n/n326128586630?hl=en
+- X Premium mensual: https://vanguardia.com.mx/tech/ya-viste-puedes-suscribirte-a-x-premium-antes-twitter-por-solo-54-pesos-al-mes-NO19248371
 - Tipo de cambio: https://dolardof.com/
