@@ -7,7 +7,7 @@
 ## Software anual
 | Herramienta | Por qué | Plan | Costo anual |
 |---|---|---|---|
-| CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia ($179.99 USD) | $2,399 |
+| CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia (precio CapCut México) | $2,399 |
 | Canva Business | Kit de marca y plantillas fijas, 2 personas a la vez | 2 usuarios ($250 USD c/u) | $11,020 |
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($20 USD/mes c/u, anual) | $10,579 |
 | Magnific Premium+ | Banco de recursos + imagen y video con IA | 1 licencia ($405 USD) | $8,926 |
