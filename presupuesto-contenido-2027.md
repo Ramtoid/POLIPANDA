@@ -8,27 +8,27 @@
 | Herramienta | Por qué | Plan | Costo anual |
 |---|---|---|---|
 | CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia (precio CapCut México) | $2,399 |
-| Canva Business | Kit de marca y plantillas fijas, 2 personas a la vez | 2 usuarios ($250 USD c/u) | $11,020 |
+| Canva Negocios | Kit de marca compartido, aprobaciones y trabajo en equipo | 2 usuarios ($2,100 MXN c/u, canva.com México) | $4,200 |
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($20 USD/mes c/u, anual) | $10,579 |
 | Magnific Premium+ | Banco de recursos + imagen y video con IA | 1 licencia ($405 USD) | $8,926 |
 | ManyChat Pro | Mensajes privados automáticos en IG y Facebook; dinámicas "comenta y te llega" | 1,000 contactos ($25 USD/mes, solo mensual) | $6,612 |
 | Metricool Starter | Publica directo en FB, IG, TikTok, X, YouTube y LinkedIn; mide y reporta | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
 | Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$55,936** |
+| **Total** | | | **$49,116** |
 
 ### Pago mensual vs anual
 | Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
 |---|---|---|---|---|
 | CapCut Pro | ~$441 | ~$5,287 | $2,399 (1er año; renueva $2,999) | ~$2,888 |
-| Canva Business (2) | $1,102 | $13,224 | $11,020 | $2,204 |
+| Canva Negocios (2) | ~$420 | ~$5,040 | $4,200 | ~$840 |
 | ChatGPT Business (2) | $1,102 | $13,224 | $10,579 | $2,645 |
 | Magnific Premium+ | $992 | $11,902 | $8,926 | $2,976 |
 | ManyChat Pro | $551 | $6,612 | Solo mensual | $0 |
 | Metricool Starter + X | $771 | $9,257 | $7,934 | $1,323 |
 | Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
 | X Premium | $145 | $1,740 | $1,520 | $220 |
-| **Total** | **$5,973** | **$71,672** | **$55,936** | **$15,736** |
+| **Total** | **$5,291** | **$63,488** | **$49,116** | **$14,372** |
 
 
 ## Qué automatizamos con IA
@@ -81,9 +81,9 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $55,936 | $55,936 | $55,936 |
+| Software | $49,116 | $49,116 | $49,116 |
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
-| **Total** | **$69,100–70,400** | **$76,600–81,400** | **$88,100–91,400** |
+| **Total** | **$62,300–63,500** | **$69,800–74,600** | **$81,300–84,600** |
 
 ## Links de compra
 **Equipo**
@@ -95,7 +95,7 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 
 **Software (comprar desde la web, no desde la app)**
 - CapCut Pro: https://www.capcut.com/
-- Canva Business: https://www.canva.com/pricing/
+- Canva Negocios: https://www.canva.com/pricing/
 - ChatGPT Business: https://openai.com/business/pricing/
 - Magnific Premium+: https://www.magnific.com/pricing
 - ManyChat Pro: https://manychat.com/pricing
