@@ -11,11 +11,11 @@
 | Canva Pro | Cuenta Pro con kit de marca, plantillas prémium e IA para cada persona | 2 cuentas ($1,210 MXN c/u, canva.com México) | $2,420 |
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($340 MXN/mes c/u, anual) | $8,160 |
 | Magnific Premium+ | Banco de recursos + imagen y video con IA; no entrena con nuestros datos | 1 licencia ($7,036.56 MXN con IVA) | $7,037 |
-| ManyChat Pro | Mensajes privados automáticos en IG y Facebook; dinámicas "comenta y te llega" | 1,000 contactos ($25 USD/mes, solo mensual) | $6,612 |
+| ManyChat Pro | Mensajes privados automáticos y dinámicas "comenta y te llega" en IG y Facebook | 2,500 contactos, 3 canales ($348 USD/año) | $7,670 |
 | Metricool Starter | Publica directo en FB, IG, TikTok, X, YouTube y LinkedIn; mide y reporta | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
 | Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$43,028** |
+| **Total** | | | **$44,086** |
 
 ### Pago mensual vs anual
 | Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
@@ -24,11 +24,11 @@
 | Canva Pro (2) | ~$303 | ~$3,630 | $2,420 | ~$1,210 |
 | ChatGPT Business (2) | $860 | $10,320 | $8,160 | $2,160 |
 | Magnific Premium+ | $783 | $9,396 | $7,037 | $2,359 |
-| ManyChat Pro | $551 | $6,612 | Solo mensual | $0 |
+| ManyChat Pro | ~$860 | ~$10,315 | $7,670 | ~$2,645 |
 | Metricool Starter + X | $771 | $9,257 | $7,934 | $1,323 |
 | Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
 | X Premium | $145 | $1,740 | $1,520 | $220 |
-| **Total** | **$4,723** | **$56,668** | **$43,028** | **$13,640** |
+| **Total** | **$5,032** | **$60,371** | **$44,086** | **$16,285** |
 
 
 ## Qué automatizamos con IA
@@ -59,7 +59,8 @@ Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios e
 |---|---|---|
 | Meta Business Suite | Respuesta instantánea, palabras clave, comentario a mensaje (solo desde computadora) | $0 |
 | InstantDM | Comenta y te llega en Instagram | ~$2,642 |
-| ManyChat Pro (en presupuesto) | Mensajes y dinámicas en IG y Facebook con estadísticas | 500 contactos $3,967 · 1,000 $6,612 · 2,500 $11,902 |
+| ManyChat Básico | 250 contactos/mes, 2 canales (IG + Messenger alcanza) | $3,703 |
+| ManyChat Pro (en presupuesto) | 2,500 contactos/mes, 3 canales, IA; aguanta dinámicas grandes | $7,670 |
 
 ## Cámara de video (rangos de Mercado Libre y tiendas oficiales; el precio cambia según vendedor)
 | | Plan A · DJI Osmo Pocket 4P | Plan B · Sony ZV-E10 | Plan C · Sony ZV-E10 II |
@@ -81,9 +82,9 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $43,028 | $43,028 | $43,028 |
+| Software | $44,086 | $44,086 | $44,086 |
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
-| **Total** | **$56,200–57,400** | **$63,700–68,500** | **$75,200–78,500** |
+| **Total** | **$57,300–58,500** | **$64,800–69,600** | **$76,300–79,600** |
 
 ## Links de compra
 **Equipo**
