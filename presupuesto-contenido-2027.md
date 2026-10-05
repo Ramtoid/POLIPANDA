@@ -8,17 +8,17 @@
 | Herramienta | Por qué | Plan | Costo anual |
 |---|---|---|---|
 | CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia ($179.99 USD) | $3,967 |
-| Canva Business | Kit de marca y plantillas fijas, 3 personas a la vez | 3 usuarios ($250 USD c/u) | $16,530 |
+| Canva Business | Kit de marca y plantillas fijas, 2 personas a la vez | 2 usuarios ($250 USD c/u) | $11,020 |
 | ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($20 USD/mes c/u, anual) | $10,579 |
 | Magnific Premium+ | Banco de recursos + imagen y video con IA | 1 licencia ($405 USD) | $8,926 |
-| ManyChat Pro | Responde comentarios y mensajes de Instagram y Facebook (WhatsApp: posible a futuro) | ~2,500 contactos (~$39 USD/mes, solo mensual) | $10,315 |
-| Metricool Starter | Programa y mide todas las redes; reportes | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
+| ManyChat Pro | Mensajes privados automáticos en IG y Facebook; dinámicas "comenta y te llega" | 1,000 contactos ($25 USD/mes, solo mensual) | $6,612 |
+| Metricool Starter | Publica directo en FB, IG, TikTok, X, YouTube y LinkedIn; mide y reporta | 1 marca + X ($20 + $10 USD/mes) | $7,934 |
 | Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
 | X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$66,717** |
+| **Total** | | | **$57,504** |
 
 ## Qué automatizamos con IA
-Boletines de prensa desde la ficha del evento · síntesis de medios diaria · calendario de campañas · un texto adaptado a todas las redes · respuestas tipo para prensa, público y crisis · reporte mensual de campañas con datos de Metricool.
+Boletines de prensa desde la ficha del evento · presentaciones e informes para Dirección · guiones de video · síntesis de medios diaria · calendario de campañas · un texto adaptado a todas las redes · respuestas tipo para prensa, público y crisis · reporte mensual de campañas con datos de Metricool.
 
 ## IA de texto: costo y privacidad
 | Criterio | ChatGPT Business (en presupuesto) | Claude Team |
@@ -39,29 +39,30 @@ Los dos son privados en su plan de empresa; ninguno lo es por defecto en su plan
 | Imágenes | Ilimitadas con modelos incluidos | Descuentan créditos | ~3,000/año (~$3.50 c/u) |
 | Además | Fotos, vectores, mockups | Solo IA | Música y video stock |
 
-## Bots para redes
-| Herramienta | Lo fuerte | Costo anual |
+## ¿Es mucho ManyChat?
+Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios en IG y Facebook.
+| Opción | Qué hace | Costo anual |
 |---|---|---|
-| ManyChat Pro (en presupuesto) | Comentarios de Instagram y Facebook; WhatsApp posible | $10,315 |
-| Chatfuel AI Pro | Contactos ilimitados, IA | ~$9,201 |
-| SendPulse | El más barato, bots básicos | ~$2,539 |
-| Wati / Leadsales | Solo si a futuro se atiende WhatsApp con varios agentes | $15,604+ |
+| Meta Business Suite | Respuesta instantánea, palabras clave, comentario a mensaje (solo desde computadora) | $0 |
+| InstantDM | Comenta y te llega en Instagram | ~$2,642 |
+| ManyChat Pro (en presupuesto) | Mensajes y dinámicas en IG y Facebook con estadísticas | 500 contactos $3,967 · 1,000 $6,612 · 2,500 $11,902 |
 
-## Cámara de video (de menor a mayor; solo cámara + estabilizador, micrófonos ya los tenemos)
-| | Plan A · DJI Osmo Pocket 4 | Plan B · Sony ZV-E10 | Plan C · Sony ZV-E10 II |
+## Cámara de video (precios Mercado Libre, de menor a mayor; cámara + estabilizador, micrófonos ya los tenemos)
+| | Plan A · DJI Osmo Pocket 4P | Plan B · Sony ZV-E10 | Plan C · Sony ZV-E10 II |
 |---|---|---|---|
-| Cámara | Standard Combo · $9,599 | + lente 16-50 · $13,999 | + lente 16-50 · $26,499 |
+| Cámara | Standard Combo · $11,999 | + lente 16-50 · $13,399 | + lente 16-50 · $24,999 |
 | Estabilizador | Integrado | DJI RS 4 Mini · $7,199 | DJI RS 4 Mini · $7,199 |
-| **Subtotal** | **$9,599** | **$21,198** | **$33,698** |
+| Batería | Mango con batería DJI · $1,399 | — | — |
+| **Subtotal** | **$13,398** | **$20,598** | **$32,198** |
 
-Compatibilidad: el RS 4 Mini carga hasta 2 kg; ZV-E10 y ZV-E10 II con lente 16-50 entran de sobra.
+DJI no vende un combo de la 4P con batería: el mango con batería oficial se suma aparte. El RS 4 Mini carga 2 kg; las dos Sony con lente entran sin problema.
 
 ## Total 2027
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $66,717 | $66,717 | $66,717 |
-| Cámara y estabilizador | $9,599 | $21,198 | $33,698 |
-| **Total** | **$76,316** | **$87,915** | **$100,415** |
+| Software | $57,504 | $57,504 | $57,504 |
+| Cámara | $13,398 | $20,598 | $32,198 |
+| **Total** | **$70,902** | **$78,102** | **$89,702** |
 
 ## Fuentes
 - CapCut: https://www.eesel.ai/blog/capcut-pricing · Canva: https://www.miracamp.com/learn/canva/pricing-plans
@@ -69,11 +70,11 @@ Compatibilidad: el RS 4 Mini carga hasta 2 kg; ZV-E10 y ZV-E10 II con lente 16-5
 - Claude Team: https://www.ssdnodes.com/learn/claude-team-plans-small-business · Privacidad Claude: https://www.strac.io/blog/does-claude-train-on-your-data
 - Magnific: https://oakgen.ai/blog/magnific-ai-freepik-rebrand-pricing · créditos video: https://www.magnific.com/ai/docs/ai-video-generator-credits
 - Higgsfield: https://ugcgen.ai/higgsfield-pricing · Artlist: https://photutorial.com/artlist-pricing/ · créditos Artlist: https://help.artlist.io/hc/en-us/articles/29559277294237-Artlist-Max-plan-explained
-- ManyChat: https://chatarmin.com/en/blog/manychat-pricing · Alternativas: https://sendpulse.com/blog/manychat-alternatives
+- ManyChat: https://chatarmin.com/en/blog/manychat-pricing · Meta Business Suite gratis: https://creatorflow.so/blog/instagram-built-in-automation/ · InstantDM: https://instantdm.com/blog/manychat-pricing-2026
 - Metricool y add-on de X: https://www.socialpilot.co/insights/metricool-pricing · https://help.metricool.com/en/article/your-guide-to-the-new-xtwitter-add-on-1wegbud/
 - X Premium México: https://vanguardia.com.mx/tech/ya-viste-puedes-suscribirte-a-x-premium-antes-twitter-por-solo-54-pesos-al-mes-NO19248371
 - Adobe MX: https://helpx.adobe.com/mx/creative-cloud/policy-pricing/changes-to-individual-plan.html
-- Osmo Pocket 4 Standard Combo: https://www.djistoremexico.com/producto/osmo-pocket-4-standard-combo/
-- ZV-E10: https://videostaff.com.mx/products/camara-sony-zv-e10-con-lente-16-50mm · ZV-E10 II: https://vyorsa.com.mx/camara-sony-zv-e10-ii.html
-- DJI RS 4 Mini: https://www.djistoremexico.com/producto/dji-rs-4-mini/ · compatibilidad: https://www.dji.com/rs-4-mini
+- Osmo Pocket 4P Standard Combo: https://www.djistoremexico.com/producto/osmo-pocket-4p-standard-combo/ · https://www.xataka.com.mx/fotografia-y-video/osmo-pocket-4p-precio-mexico-caracteristicas-especificaciones-ficha-tecnica · Mango con batería: https://www.amazon.com.mx/Osmo-Pocket-3-Battery-Handle/dp/B0FKT73T6Q
+- ZV-E10 (Mercado Libre): https://listado.mercadolibre.com.mx/camara-sony-zv-e10-con-lente-16-50mm · ZV-E10 II (Mercado Libre): https://listado.mercadolibre.com.mx/sony-zv-e10-ii
+- DJI RS 4 Mini (Mercado Libre): https://listado.mercadolibre.com.mx/dji-rs-4-mini · compatibilidad: https://www.dji.com/rs-4-mini
 - Tipo de cambio: https://dolardof.com/
