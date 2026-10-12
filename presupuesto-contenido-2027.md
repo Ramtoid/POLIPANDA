@@ -1,40 +1,42 @@
-# Presupuesto de Contenido 2027 — Poliforum León (Comunicación y RRPP)
+# Presupuesto 2027 — Poliforum León: Comunicación y RRPP + Página web
 
 > Presentación: https://claude.ai/artifact/5f46ZN27LEkiGRuiB5mgt9
 > Colores y logo: Manual de Marca Poliforum León (Pantone 377 / 640 / 308).
 > Precios verificados: octubre 2026 · MXN con IVA · USD a $19.00 MXN + IVA 16% en servicios digitales.
 
+## Resumen: dos propuestas
+| Propuesta | Qué incluye | Total 2027 |
+|---|---|---|
+| 1 · Comunicación y RRPP | ManyChat Pro, Metricool Starter, X Premium, cámara de video | $27,680–49,980 (según plan de cámara) |
+| 2 · Página web | ChatGPT Business, Magnific Premium+, Adobe Illustrator, Canva Pro, CapCut Pro | $26,962 |
+
+# PROPUESTA 1 · Comunicación y RRPP
+
 ## Software anual
-| Herramienta | Por qué | Plan | Costo anual |
-|---|---|---|---|
-| CapCut Pro | Edición rápida de reels y TikTok: más publicaciones con el mismo equipo | 1 licencia (precio CapCut México) | $2,399 |
-| Canva Pro | Cuenta Pro con kit de marca, plantillas prémium e IA para cada persona | 2 cuentas ($1,210 MXN c/u, canva.com México) | $2,420 |
-| ChatGPT Business | Textos, imágenes y automatización; no entrena con nuestros datos | 2 usuarios ($340 MXN/mes c/u, anual) | $8,160 |
-| Magnific Premium+ | Banco de recursos + imagen y video con IA; no entrena con nuestros datos | 1 licencia ($7,036.56 MXN con IVA) | $7,037 |
-| ManyChat Pro | Mensajes privados automáticos y dinámicas "comenta y te llega" en IG y Facebook | 2,500 contactos, 3 canales ($348 USD/año) | $7,670 |
-| Metricool Starter | Publica directo en FB, IG, TikTok, YouTube y LinkedIn; mide y reporta | 1 marca, sin cuenta de X ($240 USD/año) | $5,290 |
-| Adobe Illustrator | Vectores para imprenta: lonas, señalética, mapas | 1 licencia ($5,988 + IVA) | $6,946 |
-| X Premium | Verificación de la cuenta oficial | Precio México | $1,520 |
-| **Total** | | | **$41,442** |
-
-### Pago mensual vs anual
-| Herramienta | Pago mensual | Mensual × 12 | Pago anual | Ahorro anual |
+| Herramienta | Por qué | Plan | Pago anual | Ahorro vs mensual |
 |---|---|---|---|---|
-| CapCut Pro | ~$441 | ~$5,287 | $2,399 (1er año; renueva $2,999) | ~$2,888 |
-| Canva Pro (2) | ~$303 | ~$3,630 | $2,420 | ~$1,210 |
-| ChatGPT Business (2) | $860 | $10,320 | $8,160 | $2,160 |
-| Magnific Premium+ | $783 | $9,396 | $7,037 | $2,359 |
-| ManyChat Pro | ~$860 | ~$10,315 | $7,670 | ~$2,645 |
-| Metricool Starter | $551 | $6,612 | $5,290 | $1,322 |
-| Adobe Illustrator | $869 | $10,426 | $6,946 | $3,480 |
-| X Premium | $145 | $1,740 | $1,520 | $220 |
-| **Total** | **$4,812** | **$57,726** | **$41,442** | **$16,284** |
+| ManyChat Pro | Mensajes privados automáticos y dinámicas "comenta y te llega" en IG y Facebook | 2,500 contactos, 3 canales ($348 USD/año) | $7,670 | ~$2,645 |
+| Metricool Starter | Publica directo en FB, IG, TikTok, YouTube y LinkedIn; mide y reporta | 1 marca, sin cuenta de X ($240 USD/año) | $5,290 | $1,322 |
+| X Premium | Verificación de la cuenta oficial | Precio México | $1,520 | $220 |
+| **Total software** | | | **$14,480** | **$4,187** |
 
+Más la cámara de video (ver abajo), que se compra una sola vez.
 
-## Qué automatizamos con IA
-Boletines de prensa desde la ficha del evento · presentaciones e informes para Dirección · guiones de video · síntesis de medios diaria · calendario de campañas · un texto adaptado a todas las redes · respuestas tipo para prensa, público y crisis · reporte mensual de campañas con datos de Metricool.
+# PROPUESTA 2 · Página web
 
-## IA de texto: costo y privacidad
+**Producción y mantenimiento del contenido del sitio (año 1): $26,962 MXN con IVA.**
+El diseño y desarrollo cubren la estructura; estas licencias producen y mantienen imágenes, textos, planos y videos del sitio sin pagar a proveedores por cada cambio.
+
+| Para el sitio | Herramienta | Pago anual | Ahorro vs mensual | Entrega |
+|---|---|---|---|---|
+| Textos, SEO y versión en inglés | ChatGPT Business (2 usuarios) | $8,160 | $2,160 | Textos de todas las páginas, página por tipo de evento, FAQ, sitio en inglés |
+| Imagen y video principal | Magnific Premium+ | $7,037 | $2,359 | Portada, fotos del recinto mejoradas, imágenes por evento |
+| Íconos, mapas y planos de salas | Adobe Illustrator | $6,946 | $3,480 | Planos por sala, mapa del recinto, íconos, logo web |
+| Gráficos y banners | Canva Pro (2 cuentas) | $2,420 | ~$1,210 | Banners por evento, imágenes para compartir el sitio |
+| Videos del sitio | CapCut Pro | $2,399 (renueva $2,999) | ~$2,888 | Video de portada, recorridos por sala, institucional |
+| **Total** | | **$26,962** | **$12,097** | |
+
+## (Web) IA de texto: costo y privacidad
 | Criterio | ChatGPT Business (en presupuesto) | Claude Team |
 |---|---|---|
 | Costo anual, 2 usuarios | $8,160 (precio México) | ~$10,579 (en dólares) |
@@ -44,7 +46,7 @@ Boletines de prensa desde la ficha del evento · presentaciones e informes para 
 
 Los dos son privados en su plan de empresa; ninguno lo es por defecto en su plan personal.
 
-## IA de imagen y video: costo por pieza (estimado, video de 5 s en 1080p con Kling 3.0)
+## (Web) IA de imagen y video: costo por pieza (estimado, video de 5 s en 1080p con Kling 3.0)
 | | Magnific Premium+ (en presupuesto) | Higgsfield Plus | Artlist Max |
 |---|---|---|---|
 | Costo anual | $8,926 | $12,431 ($47 USD/mes) | $10,577 ($39.99 USD/mes) |
@@ -53,7 +55,7 @@ Los dos son privados en su plan de empresa; ninguno lo es por defecto en su plan
 | Imágenes | Ilimitadas con modelos incluidos | Descuentan créditos | ~3,000/año (~$3.50 c/u) |
 | Además | Fotos, vectores, mockups | Solo IA | Música y video stock |
 
-## ¿Es mucho ManyChat?
+## (Comunicación) ¿Es mucho ManyChat?
 Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios en IG y Facebook.
 | Opción | Qué hace | Costo anual |
 |---|---|---|
@@ -62,7 +64,7 @@ Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios e
 | ManyChat Básico | 250 contactos/mes, 2 canales (IG + Messenger alcanza) | $3,703 |
 | ManyChat Pro (en presupuesto) | 2,500 contactos/mes, 3 canales, IA; aguanta dinámicas grandes | $7,670 |
 
-## Cámara de video (rangos de Mercado Libre y tiendas oficiales; el precio cambia según vendedor)
+## (Comunicación) Cámara de video (rangos de Mercado Libre y tiendas oficiales; el precio cambia según vendedor)
 | | Plan A · DJI Osmo Pocket 4P | Plan B · Sony ZV-E10 | Plan C · Sony ZV-E10 II |
 |---|---|---|---|
 | Cámara | Standard Combo · $11,999–12,999 | + lente 16-50 · $13,500–18,000 | + lente 16-50 · $25,000–28,000 |
@@ -79,12 +81,14 @@ Solo lo usamos para mensajes privados automáticos y dinámicas de comentarios e
 
 Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 
-## Total 2027
+## Total Comunicación y RRPP por plan
 | | Plan A | Plan B | Plan C |
 |---|---|---|---|
-| Software | $41,442 | $41,442 | $41,442 |
+| Software | $14,480 | $14,480 | $14,480 |
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
-| **Total** | **$54,600–55,800** | **$62,100–66,900** | **$73,600–76,900** |
+| **Total** | **$27,680–28,880** | **$35,180–39,980** | **$46,680–49,980** |
+
+Página web: $26,962 (presupuesto aparte).
 
 ## Links de compra
 **Equipo**
@@ -94,15 +98,17 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 - Sony ZV-E10 II + 16-50 ($24,999–27,679 según vendedor): https://listado.mercadolibre.com.mx/sony-zv-e10-ii · https://articulo.mercadolibre.com.mx/MLM-3418537266-camara-sony-zv-e10-ii-lente-e-pz-16-50mm-f35-56-oss-i-i-_JM
 - DJI RS 4 Mini ($7,199): https://www.djistoremexico.com/producto/dji-rs-4-mini/ · Combo en Mercado Libre ($8,899): https://www.mercadolibre.com.mx/pack-estabilizador-dji-rs-4-mini-combo-seguimiento-carga-2kg-gris/p/MLM47798993
 
-**Software (comprar desde la web, no desde la app)**
+**Software · Comunicación (comprar desde la web, no desde la app)**
+- ManyChat Pro: https://manychat.com/pricing
+- Metricool Starter: https://metricool.com/pricing/
+- X Premium: https://x.com/i/premium_sign_up
+
+**Software · Página web**
 - CapCut Pro: https://www.capcut.com/
 - Canva Pro (2 cuentas): https://www.canva.com/pricing/
 - ChatGPT Business: https://openai.com/business/pricing/
 - Magnific Premium+: https://www.magnific.com/pricing
-- ManyChat Pro: https://manychat.com/pricing
-- Metricool Starter: https://metricool.com/pricing/
 - Adobe Illustrator: https://www.adobe.com/mx/products/illustrator.html
-- X Premium: https://x.com/i/premium_sign_up
 - Opción gratis para mensajes: Meta Business Suite https://business.facebook.com/
 
 ## Fuentes
