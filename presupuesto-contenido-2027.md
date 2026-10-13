@@ -8,7 +8,7 @@
 | Propuesta | Qué incluye | Total 2027 |
 |---|---|---|
 | 1 · Comunicación y RRPP | ManyChat Pro, Metricool Starter, X Premium, cámara de video | $27,680–49,980 (según plan de cámara) |
-| 2 · Página web | ChatGPT Business, Magnific Premium+, Adobe Illustrator, Canva Pro, CapCut Pro | $26,962 |
+| 2 · Página web | A · Servidor, asistente virtual y seguridad (cotización). B · ChatGPT Business, Magnific Premium+, Adobe Illustrator, Canva Pro, CapCut Pro | $40,521 |
 
 # PROPUESTA 1 · Comunicación y RRPP
 
@@ -24,8 +24,23 @@ Más la cámara de video (ver abajo), que se compra una sola vez.
 
 # PROPUESTA 2 · Página web
 
-**Producción y mantenimiento del contenido del sitio (año 1): $26,962 MXN con IVA.**
-El diseño y desarrollo cubren la estructura; estas licencias producen y mantienen imágenes, textos, planos y videos del sitio sin pagar a proveedores por cada cambio.
+**Total primer año: $40,521 MXN con IVA** = A · Infraestructura $13,559 + B · Contenido $26,962.
+
+## Parte A · Cotización de la web (sin IVA, $18.20/USD)
+| Concepto | Al mes | Al año |
+|---|---|---|
+| Servidor y respaldos · DigitalOcean | $284 | $3,407 |
+| Asistente virtual · Claude de Anthropic | $251 | $3,011 |
+| Bitwarden Teams (3 personas) | $218 | $2,621 |
+| Dominio poliforumleon.com.mx | $46 | $550 |
+| Cloudflare, avisos, monitoreo, copia externa | $0 | $0 |
+| **Total recurrente** | **$799** | **$9,589** |
+| 4 llaves Yubico (un solo pago) | | $2,100 |
+| **Primer año** | | **$11,689 (+IVA = $13,559)** |
+
+La cotización no incluye sesión de fotos ni herramientas de diseño o de IA del equipo → Parte B.
+
+## Parte B · Contenido del sitio
 
 | Para el sitio | Herramienta | Pago anual | Ahorro vs mensual | Entrega |
 |---|---|---|---|---|
@@ -35,6 +50,9 @@ El diseño y desarrollo cubren la estructura; estas licencias producen y mantien
 | Gráficos y banners | Canva Pro (2 cuentas) | $2,420 | ~$1,210 | Banners por evento, imágenes para compartir el sitio |
 | Videos del sitio | CapCut Pro | $2,399 (renueva $2,999) | ~$2,888 | Video de portada, recorridos por sala, institucional |
 | **Total** | | **$26,962** | **$12,097** | |
+
+## Publicidad en la web nueva
+8 espacios de anuncio (de $500 a $3,000 al mes). Todos vendidos en contrato anual: $98,880. Con la mitad vendida (~$49,000/año, sin IVA) se paga toda la Propuesta 2 ($40,521).
 
 ## (Web) IA de texto: costo y privacidad
 | Criterio | ChatGPT Business (en presupuesto) | Claude Team |
@@ -88,7 +106,7 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
 | **Total** | **$27,680–28,880** | **$35,180–39,980** | **$46,680–49,980** |
 
-Página web: $26,962 (presupuesto aparte).
+Página web: $40,521 primer año (presupuesto aparte).
 
 ## Links de compra
 **Equipo**
