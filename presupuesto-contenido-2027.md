@@ -12,13 +12,14 @@
 - X Premium se queda (la cuenta oficial lo requiere).
 - Magnific Premium+ (600,000 créditos/año ≈ 66 videos de 5 s al mes + imágenes ilimitadas) alcanza el año; Premium (240,000) no.
 - Se quedan: Magnific Premium+, ManyChat Pro, Metricool.
-- ChatGPT Business se reemplaza por **Claude Team** (2 usuarios, $10,579: 20 USD/usuario/mes anual, mínimo 2 — claude.com/pricing).
+- IA de texto: **Claude Pro ×2** ($6,898, precio en pesos). Ni Claude ni ChatGPT emiten CFDI (solo comprobante del extranjero).
+- Escenarios de cámara: Mínimo (Osmo Pocket 4P), Medio (ZV-E10), Ideal (ZV-E10 II).
 
 ## Resumen: dos propuestas
 | Propuesta | Qué incluye | Año 1 · 2027 | Año 2 en adelante |
 |---|---|---|---|
 | 1 · Comunicación y RRPP | ManyChat Pro, Metricool Starter, X Premium, cámara de video | $26,479–49,980 (según plan de cámara) | $14,480 |
-| 2 · Página web | A · Servidor, asistente virtual y seguridad (cotización). B · Claude Team, Magnific Premium+, Adobe Illustrator, Canva Pro, CapCut Pro | $42,940 | $41,104 |
+| 2 · Página web | A · Servidor, asistente virtual y seguridad (cotización). Lo esencial (servidor, chatbot, seguridad, dominio) + Diseño: Claude Pro ×2, Magnific Premium+, Adobe Illustrator, Canva Pro ×2, CapCut Pro | $37,513 | $35,677 |
 
 # PROPUESTA 1 · Comunicación y RRPP
 
@@ -34,7 +35,7 @@ Más la cámara de video (ver abajo), que se compra una sola vez.
 
 # PROPUESTA 2 · Página web
 
-**Año 1: $42,940 · Año 2 en adelante: $41,104 (MXN con IVA).** A · Infraestructura $13,559 / $11,123 + B · Contenido $29,381 / $29,981.
+**Año 1: $37,513 · Año 2 en adelante: $35,677 (MXN con IVA).** Lo esencial $11,813 / $9,377 (chatbot con modelo económico, ~$126/mes sin IVA) + Diseño y contenido $25,700 / $26,300.
 
 ## Parte A · Cotización de la web (sin IVA, $18.20/USD)
 | Concepto | Al mes | Al año |
@@ -54,15 +55,15 @@ La cotización no incluye sesión de fotos ni herramientas de diseño o de IA de
 
 | Para el sitio | Herramienta | Pago anual | Ahorro vs mensual | Entrega |
 |---|---|---|---|---|
-| Textos, SEO y versión en inglés | Claude Team (2 usuarios) | $10,579 | ~$2,645 | Textos de todas las páginas, página por tipo de evento, FAQ, sitio en inglés |
+| Textos, SEO y versión en inglés | Claude Pro (2 cuentas, MXN 3,449 c/u) | $6,898 | $1,478 | Textos de todas las páginas, página por tipo de evento, FAQ, sitio en inglés |
 | Imagen y video principal | Magnific Premium+ | $7,037 | $2,359 | Portada, fotos del recinto mejoradas, imágenes por evento |
 | Íconos, mapas y planos de salas | Adobe Illustrator | $6,946 | $3,480 | Planos por sala, mapa del recinto, íconos, logo web |
 | Gráficos y banners | Canva Pro (2 cuentas) | $2,420 | ~$1,210 | Banners por evento, imágenes para compartir el sitio |
 | Videos del sitio | CapCut Pro | $2,399 (renueva $2,999) | ~$2,888 | Video de portada, recorridos por sala, institucional |
-| **Total** | | **$29,381** | **$12,582** | |
+| **Total** | | **$25,700** | **$11,415** | |
 
 ## Publicidad en la web nueva
-8 espacios de anuncio (de $4,800 a $28,800 al año). Todos vendidos en contrato anual: $98,880. Con la mitad vendida (~$49,000/año, sin IVA) se paga toda la Propuesta 2 ($42,940).
+8 espacios de anuncio (de $4,800 a $28,800 al año). Todos vendidos en contrato anual: $98,880. Con la mitad vendida (~$49,000/año, sin IVA) se paga toda la Propuesta 2 ($37,513).
 
 ## (Web) IA de texto: costo y privacidad
 | Criterio | ChatGPT Business (en presupuesto) | Claude Team |
@@ -117,7 +118,7 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 | **Total año 1** | **$26,479–27,479** | **$35,180–39,980** | **$46,680–49,980** |
 | **Año 2 en adelante** | $14,480 | $14,480 | $14,480 |
 
-Página web: $42,940 año 1, $41,104 año 2 en adelante (presupuesto aparte).
+Página web: $37,513 año 1, $35,677 año 2 en adelante (presupuesto aparte).
 
 ## Links de compra
 **Equipo**
