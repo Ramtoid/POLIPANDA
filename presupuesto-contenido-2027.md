@@ -5,10 +5,10 @@
 > Precios verificados: octubre 2026 · MXN con IVA · USD a $19.00 MXN + IVA 16% en servicios digitales.
 
 ## Resumen: dos propuestas
-| Propuesta | Qué incluye | Total 2027 |
-|---|---|---|
-| 1 · Comunicación y RRPP | ManyChat Pro, Metricool Starter, X Premium, cámara de video | $27,680–49,980 (según plan de cámara) |
-| 2 · Página web | A · Servidor, asistente virtual y seguridad (cotización). B · ChatGPT Business, Magnific Premium+, Adobe Illustrator, Canva Pro, CapCut Pro | $40,521 |
+| Propuesta | Qué incluye | Año 1 · 2027 | Año 2 en adelante |
+|---|---|---|---|
+| 1 · Comunicación y RRPP | ManyChat Pro, Metricool Starter, X Premium, cámara de video | $27,680–49,980 (según plan de cámara) | $14,480 |
+| 2 · Página web | A · Servidor, asistente virtual y seguridad (cotización). B · ChatGPT Business, Magnific Premium+, Adobe Illustrator, Canva Pro, CapCut Pro | $40,521 | $38,685 |
 
 # PROPUESTA 1 · Comunicación y RRPP
 
@@ -24,7 +24,7 @@ Más la cámara de video (ver abajo), que se compra una sola vez.
 
 # PROPUESTA 2 · Página web
 
-**Total primer año: $40,521 MXN con IVA** = A · Infraestructura $13,559 + B · Contenido $26,962.
+**Año 1: $40,521 · Año 2 en adelante: $38,685 (MXN con IVA).** A · Infraestructura $13,559 / $11,123 + B · Contenido $26,962 / $27,562.
 
 ## Parte A · Cotización de la web (sin IVA, $18.20/USD)
 | Concepto | Al mes | Al año |
@@ -104,9 +104,10 @@ Cada Sony con lente pesa menos de 500 g; el RS 4 Mini carga 2 kg.
 |---|---|---|---|
 | Software | $14,480 | $14,480 | $14,480 |
 | Cámara | $13,200–14,400 | $20,700–25,500 | $32,200–35,500 |
-| **Total** | **$27,680–28,880** | **$35,180–39,980** | **$46,680–49,980** |
+| **Total año 1** | **$27,680–28,880** | **$35,180–39,980** | **$46,680–49,980** |
+| **Año 2 en adelante** | $14,480 | $14,480 | $14,480 |
 
-Página web: $40,521 primer año (presupuesto aparte).
+Página web: $40,521 año 1, $38,685 año 2 en adelante (presupuesto aparte).
 
 ## Links de compra
 **Equipo**
